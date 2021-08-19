@@ -1,6 +1,6 @@
 # short-story-organizer
 
-made with LOVE in Lua
+made with LOVE
 
 a minimalistic desktop app to help writers organize thoughts.
 <ul>
@@ -10,3 +10,12 @@ a minimalistic desktop app to help writers organize thoughts.
   <li>ctrl+s to save</li>
   <li>hold shift to open multiple nodes at once</li>
 </ul>
+
+before suggesting a new feature or bug, take a peek at this list of features i already have planned for the future of short story organizer
+<ul>
+  <li>user interface, complete with a settings section to personalize to your little hearts content</li>
+  <li>better textbox, comparable to the likes of every text editor ever, blinking indicator and all</li>
+  <li>multiple save files</li>
+  <li>more aesthetics</li>
+</ul>
+if your idea isn't here, or you just want to talk, feel free to <a href="https://forms.gle/YiFJfLdfajLK2Qhh7">let me know</a>
