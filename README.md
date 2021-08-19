@@ -16,6 +16,7 @@ before suggesting a new feature or bug, take a peek at this list of features i a
   <li>user interface, complete with a settings section to personalize to your little hearts content</li>
   <li>better textbox, comparable to the likes of every text editor ever, blinking indicator and all</li>
   <li>multiple save files</li>
+  <li>support for mac and linux</li>
   <li>more aesthetics</li>
 </ul>
 if your idea isn't here, or you just want to talk, feel free to <a href="https://forms.gle/YiFJfLdfajLK2Qhh7">let me know</a>
