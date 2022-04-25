@@ -2,7 +2,7 @@
 
 made with LOVE
 
-a minimalistic desktop app to help writers organize thoughts.
+a minimalistic desktop thought organizer for writers (or anyone else with thoughts).
 <ul>
   <li>left-click on an empty space to create a node</li>
   <li>right-click to delete the node</li>
