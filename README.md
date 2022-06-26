@@ -1,6 +1,6 @@
 # short-story-organizer
 
-made with LOVE
+made with LÖVE; a text editor built from scratch
 
 a minimalistic desktop thought organizer for writers (or anyone else with thoughts).
 <ul>
@@ -14,7 +14,7 @@ a minimalistic desktop thought organizer for writers (or anyone else with though
 planned future features:
 <ul>
   <li>user interface, complete with a settings section to personalize to your little hearts content</li>
-  <li>better textbox, comparable to the likes of every text editor ever, blinking indicator and all</li>
+  <li>better textbox</li>
   <li>multiple save files</li>
   <li>support for mac and linux</li>
   <li>more customizability (colours, fonts, node shapes)</li>
